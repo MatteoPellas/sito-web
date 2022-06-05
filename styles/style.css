@@ -57,26 +57,25 @@ ul#menu li {
   
 }
 ul#menu li a {
-  color: black;
+  color: #E3CAA5;
   display: block;
   font-weight: bold;
   text-decoration: none;
   text-align: center;
 }
 ul#menu li.active, ul#menu li:hover {
-  background-color: #E3CAA5;
+  color: black;
   border-bottom: 5px solid ;
 }
 ul{
-  background-color: #FFFBE9;
+  background-color: #917b66;
   height: 100px;
   
 }
 div.titolo{
   text-align: center;
-  
-  
   font-size:100px;
+  color:#917b66
   
 }
 div.contenuto{
@@ -92,4 +91,16 @@ div.contenuto{
 img.logo{
   height: 100px;
   
+}
+
+h3.problemTitle{
+  font-size:30px;
+  color:#917b66
+}
+h1.problemTitle{
+  color:#917b66
+}
+
+body{
+  background-color: #FFFBE9;
 }
