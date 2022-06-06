@@ -104,3 +104,6 @@ h1.problemTitle{
 body{
   background-color: #FFFBE9;
 }
+p:hover{
+  color:grey
+}
